@@ -1,0 +1,1 @@
+$ terraform init $ terraform import aws_autoscaling_group.example yourasgname or ID $ terraform plan $ terraform apply
